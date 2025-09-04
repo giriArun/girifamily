@@ -1,0 +1,800 @@
+[
+    {
+        "id": "97",
+        "name": "Ghoti charan Giri",
+        "gender": "M",
+        "spouse": [],
+        "kids": [
+            {
+                "id": "54",
+                "name": "Kashinath Giri",
+                "gender": "M",
+                "spouse": [],
+                "kids": [
+                    {
+                        "id": "55",
+                        "name": "Narendre nath Giri",
+                        "gender": "M",
+                        "spouse": [
+                            {
+                                "id": "56",
+                                "name": "Grirbala Giri",
+                                "gender": "F"
+                            }
+                        ],
+                        "kids": [
+                            {
+                                "id": "57",
+                                "name": "Suresh Chandra Giri",
+                                "gender": "M",
+                                "spouse": [
+                                    {
+                                        "id": "58",
+                                        "name": "Purnima Giri",
+                                        "gender": "F"
+                                    }
+                                ],
+                                "kids": [
+                                    {
+                                        "id": "60",
+                                        "name": "Swapan Kumar Giri",
+                                        "gender": "M",
+                                        "spouse": [
+                                            {
+                                                "id": "61",
+                                                "name": "Sonai Giri",
+                                                "gender": "F"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "79",
+                                                "name": "Shantanu Giri",
+                                                "gender": "M",
+                                                "spouse": [
+                                                    {
+                                                        "id": "80",
+                                                        "name": "Puja Giri",
+                                                        "gender": "F"
+                                                    }
+                                                ],
+                                                "kids": [
+                                                    {
+                                                        "id": "81",
+                                                        "name": "Samprit Giri",
+                                                        "gender": "M",
+                                                        "spouse": [],
+                                                        "kids": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "82",
+                                                "name": "Stuti Giri",
+                                                "gender": "F",
+                                                "spouse": [
+                                                    {
+                                                        "id": "83",
+                                                        "name": "Pulin Pradhan",
+                                                        "gender": "M"
+                                                    }
+                                                ],
+                                                "kids": [
+                                                    {
+                                                        "id": "84",
+                                                        "name": "Pustika Pradhan",
+                                                        "gender": "F",
+                                                        "spouse": [],
+                                                        "kids": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "62",
+                                        "name": "Tapan Kumar Giri",
+                                        "gender": "M",
+                                        "spouse": [
+                                            {
+                                                "id": "63",
+                                                "name": "Arati Giri",
+                                                "gender": "F"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "72",
+                                                "name": "Jayeeta Giri",
+                                                "gender": "F",
+                                                "spouse": [
+                                                    {
+                                                        "id": "73",
+                                                        "name": "Ranjit Giri",
+                                                        "gender": "M"
+                                                    }
+                                                ],
+                                                "kids": [
+                                                    {
+                                                        "id": "74",
+                                                        "name": "Ramen Giri",
+                                                        "gender": "M",
+                                                        "spouse": [],
+                                                        "kids": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "75",
+                                                "name": "Suchita Giri",
+                                                "gender": "F",
+                                                "spouse": [
+                                                    {
+                                                        "id": "76",
+                                                        "name": "Nanojit Jana",
+                                                        "gender": "M"
+                                                    }
+                                                ],
+                                                "kids": [
+                                                    {
+                                                        "id": "77",
+                                                        "name": "Trishanjit Jana",
+                                                        "gender": "M",
+                                                        "spouse": [],
+                                                        "kids": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "78",
+                                                "name": "Sayan Giri",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "64",
+                                        "name": "Gopa Giri",
+                                        "gender": "F",
+                                        "spouse": [
+                                            {
+                                                "id": "65",
+                                                "name": "Puranjan Guria",
+                                                "gender": "M"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "70",
+                                                "name": "Saswati Guria",
+                                                "gender": "F",
+                                                "spouse": [],
+                                                "kids": []
+                                            },
+                                            {
+                                                "id": "71",
+                                                "name": "Smritilekha Guria",
+                                                "gender": "F",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "66",
+                                        "name": "Nidra Giri",
+                                        "gender": "F",
+                                        "spouse": [
+                                            {
+                                                "id": "67",
+                                                "name": "Balai Jana",
+                                                "gender": "M"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "68",
+                                                "name": "Anirban Jana",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            },
+                                            {
+                                                "id": "69",
+                                                "name": "Anindita Jana",
+                                                "gender": "F",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "59",
+                                "name": "Santosh Kumar Giri",
+                                "gender": "M",
+                                "spouse": [],
+                                "kids": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "85",
+                "name": "Biswanath Giri",
+                "gender": "M",
+                "spouse": [],
+                "kids": []
+            },
+            {
+                "id": "86",
+                "name": "Chandranath Giri",
+                "gender": "M",
+                "spouse": [
+                    {
+                        "id": "98",
+                        "name": "Rajeswari Giri",
+                        "gender": "F"
+                    }
+                ],
+                "kids": [
+                    {
+                        "id": "29",
+                        "name": "Khagendranath Giri",
+                        "gender": "M",
+                        "spouse": [
+                            {
+                                "id": "30",
+                                "name": "Giribala Giri",
+                                "gender": "F"
+                            }
+                        ],
+                        "kids": [
+                            {
+                                "id": "34",
+                                "name": "Prafulla Ranjon Giri",
+                                "gender": "M",
+                                "spouse": [
+                                    {
+                                        "id": "35",
+                                        "name": "Janhabi Bala Giri",
+                                        "gender": "F"
+                                    }
+                                ],
+                                "kids": [
+                                    {
+                                        "id": "40",
+                                        "name": "Manishi Ranjan Giri",
+                                        "gender": "M",
+                                        "spouse": [
+                                            {
+                                                "id": "41",
+                                                "name": "Sumitra Giri",
+                                                "gender": "F"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "42",
+                                                "name": "Sumana Giri",
+                                                "gender": "F",
+                                                "spouse": [],
+                                                "kids": []
+                                            },
+                                            {
+                                                "id": "43",
+                                                "name": "Suman Giri",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "44",
+                                        "name": "Sadhana Giri",
+                                        "gender": "F",
+                                        "spouse": [
+                                            {
+                                                "id": "45",
+                                                "name": "Horipada Maity",
+                                                "gender": "M"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "46",
+                                                "name": "Tarasankor Maity",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "47",
+                                        "name": "Anita Giri",
+                                        "gender": "F",
+                                        "spouse": [
+                                            {
+                                                "id": "48",
+                                                "name": "Narayan Pradhan",
+                                                "gender": "M"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "49",
+                                                "name": "Soumya Pradhan",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "50",
+                                        "name": "Manas Giri",
+                                        "gender": "M",
+                                        "spouse": [
+                                            {
+                                                "id": "51",
+                                                "name": "Archana Giri",
+                                                "gender": "F"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "52",
+                                                "name": "Sampad Giri",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            },
+                                            {
+                                                "id": "53",
+                                                "name": "Songlap Giri",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "36",
+                                "name": "Prabir Giri",
+                                "gender": "M",
+                                "spouse": [
+                                    {
+                                        "id": "1",
+                                        "name": "Kanan Bala Giri",
+                                        "gender": "F"
+                                    }
+                                ],
+                                "kids": [
+                                    {
+                                        "id": "2",
+                                        "name": "Asish Giri",
+                                        "gender": "M",
+                                        "spouse": [
+                                            {
+                                                "id": "3",
+                                                "name": "Ranu Giri",
+                                                "gender": "F"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "4",
+                                                "name": "Arun Giri",
+                                                "gender": "M",
+                                                "spouse": [
+                                                    {
+                                                        "id": "5",
+                                                        "name": "Sumita Giri",
+                                                        "gender": "F"
+                                                    }
+                                                ],
+                                                "kids": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "18",
+                                "name": "Pravash Chandra Giri",
+                                "gender": "M",
+                                "spouse": [
+                                    {
+                                        "id": "13",
+                                        "name": "Yotshna Rani Giri",
+                                        "gender": "F"
+                                    }
+                                ],
+                                "kids": [
+                                    {
+                                        "id": "22",
+                                        "name": "Papu Giri",
+                                        "gender": "F",
+                                        "spouse": [
+                                            {
+                                                "id": "14",
+                                                "name": "Chittaranjan Giri",
+                                                "gender": "M"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "15",
+                                                "name": "Rittwika Giri",
+                                                "gender": "F",
+                                                "spouse": [],
+                                                "kids": []
+                                            },
+                                            {
+                                                "id": "26",
+                                                "name": "Rishika Giri",
+                                                "gender": "F",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "25",
+                                        "name": "Pratip Kumar Giri",
+                                        "gender": "M",
+                                        "spouse": [
+                                            {
+                                                "id": "16",
+                                                "name": "Mayna Patra Giri",
+                                                "gender": "F"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "17",
+                                                "name": "Pritam Giri",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            },
+                                            {
+                                                "id": "19",
+                                                "name": "Priyam Giri",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "23",
+                                        "name": "Rupu Giri",
+                                        "gender": "F",
+                                        "spouse": [
+                                            {
+                                                "id": "20",
+                                                "name": "Ranjan Bhuniya",
+                                                "gender": "M"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "87",
+                                                "name": "Sivam Bhuniya",
+                                                "gender": "M",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "24",
+                                        "name": "Lipika Giri",
+                                        "gender": "F",
+                                        "spouse": [
+                                            {
+                                                "id": "21",
+                                                "name": "Debashis Das",
+                                                "gender": "M"
+                                            }
+                                        ],
+                                        "kids": [
+                                            {
+                                                "id": "27",
+                                                "name": "Samriddhi Das",
+                                                "gender": "F",
+                                                "spouse": [],
+                                                "kids": []
+                                            },
+                                            {
+                                                "id": "28",
+                                                "name": "Misti Das",
+                                                "gender": "F",
+                                                "spouse": [],
+                                                "kids": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "88",
+                                "name": "Shefalika Giri",
+                                "gender": "F",
+                                "spouse": [
+                                    {
+                                        "id": "89",
+                                        "name": "Bisnupada Giri",
+                                        "gender": "M"
+                                    }
+                                ],
+                                "kids": [
+                                    {
+                                        "id": "102",
+                                        "name": "Bidesh Giri",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "103",
+                                        "name": "Sadesh Giri",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "104",
+                                        "name": "Bithika Giri",
+                                        "gender": "F",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "105",
+                                        "name": "Dinesh Giri",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "90",
+                                "name": "Yotshna Shysmal",
+                                "gender": "F",
+                                "spouse": [
+                                    {
+                                        "id": "91",
+                                        "name": "Sashanka Shysmal",
+                                        "gender": "M"
+                                    }
+                                ],
+                                "kids": [
+                                    {
+                                        "id": "106",
+                                        "name": "Rita Shysmal",
+                                        "gender": "F",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "107",
+                                        "name": "Mita Shysmal",
+                                        "gender": "F",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "108",
+                                        "name": "Tuntuni Shysmal",
+                                        "gender": "F",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "109",
+                                        "name": "Khokon Shysmal",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "110",
+                                        "name": "Ashim Shysmal",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "92",
+                                "name": "Nilima Patra",
+                                "gender": "F",
+                                "spouse": [
+                                    {
+                                        "id": "93",
+                                        "name": "Khitish Patra",
+                                        "gender": "M"
+                                    }
+                                ],
+                                "kids": [
+                                    {
+                                        "id": "111",
+                                        "name": "Bapi Patra",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "112",
+                                        "name": "Doli Patra",
+                                        "gender": "F",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "113",
+                                        "name": "Shuli Patra",
+                                        "gender": "F",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "114",
+                                        "name": "Bablu Patra",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "115",
+                                        "name": "Bulbuli Patra",
+                                        "gender": "F",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "116",
+                                        "name": "Tapu Patra",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "99",
+                                "name": "Tripti Mal",
+                                "gender": "F",
+                                "spouse": [
+                                    {
+                                        "id": "100",
+                                        "name": "Vivek Mal",
+                                        "gender": "M"
+                                    }
+                                ],
+                                "kids": [
+                                    {
+                                        "id": "117",
+                                        "name": "Archana Mal",
+                                        "gender": "F",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "118",
+                                        "name": "Piku Mal",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "119",
+                                        "name": "Litu Mal",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    },
+                                    {
+                                        "id": "120",
+                                        "name": "Babu Mal",
+                                        "gender": "M",
+                                        "spouse": [],
+                                        "kids": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "101",
+                                "name": "Dipti Giri",
+                                "gender": "F",
+                                "spouse": [],
+                                "kids": []
+                            },
+                            {
+                                "id": "37",
+                                "name": "Prabartak Giri",
+                                "gender": "M",
+                                "spouse": [],
+                                "kids": []
+                            },
+                            {
+                                "id": "38",
+                                "name": "Prashanta Giri",
+                                "gender": "M",
+                                "spouse": [],
+                                "kids": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "31",
+                        "name": "Barendranath Giri",
+                        "gender": "M",
+                        "spouse": [],
+                        "kids": []
+                    },
+                    {
+                        "id": "32",
+                        "name": "Dhirendranath Giri",
+                        "gender": "M",
+                        "spouse": [],
+                        "kids": []
+                    },
+                    {
+                        "id": "121",
+                        "name": "Logen Giri",
+                        "gender": "M",
+                        "spouse": [],
+                        "kids": []
+                    },
+                    {
+                        "id": "122",
+                        "name": "Bivuti Giri",
+                        "gender": "M",
+                        "spouse": [],
+                        "kids": []
+                    },
+                    {
+                        "id": "33",
+                        "name": "Jagadish Giri",
+                        "gender": "M",
+                        "spouse": [],
+                        "kids": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "97",
+        "name": "Ghoti charan Giri 111",
+        "gender": "M",
+        "spouse": [
+            {
+                                        "id": "100",
+                                        "name": "Vivek Mal 1",
+                                        "gender": "M"
+                                    },{
+                                        "id": "100",
+                                        "name": "Vivek Mal 2",
+                                        "gender": "M"
+                                    },{
+                                        "id": "100",
+                                        "name": "Vivek Mal 3",
+                                        "gender": "M"
+                                    }
+        ]
+    }
+]

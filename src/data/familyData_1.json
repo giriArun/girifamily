@@ -1,0 +1,35 @@
+[
+    {
+        "name": "John Smith",
+        "birthYear": 1940,
+        "children": [
+            {
+                "name": "Mary Smith",
+                "birthYear": 1965,
+                "children": [
+                    {
+                        "name": "Alice Johnson",
+                        "birthYear": 1990,
+                        "children": []
+                    },
+                    {
+                        "name": "Bob Johnson",
+                        "birthYear": 1992,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Michael Smith",
+                "birthYear": 1970,
+                "children": [
+                    {
+                        "name": "Tom Smith",
+                        "birthYear": 1995,
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
