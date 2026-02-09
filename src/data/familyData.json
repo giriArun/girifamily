@@ -776,25 +776,5 @@
                 ]
             }
         ]
-    },
-    {
-        "id": "97",
-        "name": "Ghoti charan Giri 111",
-        "gender": "M",
-        "spouse": [
-            {
-                                        "id": "100",
-                                        "name": "Vivek Mal 1",
-                                        "gender": "M"
-                                    },{
-                                        "id": "100",
-                                        "name": "Vivek Mal 2",
-                                        "gender": "M"
-                                    },{
-                                        "id": "100",
-                                        "name": "Vivek Mal 3",
-                                        "gender": "M"
-                                    }
-        ]
     }
 ]
