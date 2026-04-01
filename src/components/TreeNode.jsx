@@ -24,7 +24,7 @@ export default function TreeNode({ members, className = '' }) {
         <>
             {members.map((member, index) => (
                 <li className={className} key={index}>
-                    <a href="#" onClick={(e) => handleClick(e, member)}>
+                    <button type="button" className="btn btn-link p-0" onClick={(e) => handleClick(e, member)}>
                         <p className={`p-2 ${member.gender === 'M' ? 'male' : 'female'}`}>{member.name}</p>
 
                         {member.spouse && member.spouse.length > 0 && (
@@ -34,7 +34,7 @@ export default function TreeNode({ members, className = '' }) {
                                 </p>
                             ))
                         )}
-                    </a>
+                    </button>
                     {member.kids && member.kids.length > 0 && (
                         <ul>
                             <TreeNode members={member.kids} />
@@ -56,10 +56,11 @@ export default function TreeNode({ members, className = '' }) {
                 {selectedMember && (
                     <div>
                         <table>
-                            <tr>
-                                <td colspan="2"><h3>{selectedMember.name}</h3></td>
-                            </tr>
-                            <tr>
+                            <tbody>
+                                <tr>
+                                    <td colSpan="2"><h3>{selectedMember.name}</h3></td>
+                                </tr>
+                                <tr>
                                 <td>Gender:</td>
                                 <td>{getGenderText(selectedMember.gender)}</td>
                             </tr>
@@ -70,10 +71,11 @@ export default function TreeNode({ members, className = '' }) {
                             <tr>
                                 <td>Children:</td>
                                 {/* <td>{selectedMember.kids.map(kid => kid.name).join(', ')}</td> */}
-                                <td>{selectedMember.kids.map(kid =>(
-                                    <a href="#" onClick={(e) => handleClick(e, kid)}>{kid.name}</a>
+                                <td>{selectedMember.kids && selectedMember.kids.map((kid, i) => (
+                                    <button key={i} type="button" className="btn btn-link p-0" onClick={(e) => handleClick(e, kid)}>{kid.name}</button>
                                 ))}</td>
                             </tr>
+                            </tbody>
                         </table>
                     </div>
                 )}
