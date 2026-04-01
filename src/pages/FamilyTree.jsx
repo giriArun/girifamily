@@ -30,3 +30,24 @@ export default function FamilyTree() {
         </>
     );
 }
+
+/*
+import React, { useState } from "react";
+import Sidebar from "./Sidebar";
+
+function App() {
+  const [isOpen, setIsOpen] = useState(false);
+
+  return (
+    <div>
+      <button onClick={() => setIsOpen(true)}>Open Sidebar</button>
+      <Sidebar isOpen={isOpen} onClose={() => setIsOpen(false)} />
+      <div style={{ padding: "20px" }}>
+        <h1>Main Content</h1>
+        <p>This is the main page</p>
+      </div>
+    </div>
+  );
+}
+
+export default App;*/
