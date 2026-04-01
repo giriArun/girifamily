@@ -24,7 +24,7 @@ export default function TreeNode({ members, className = '' }) {
         <>
             {members.map((member, index) => (
                 <li className={className} key={index}>
-                    <button type="button" className="btn btn-link p-0" onClick={(e) => handleClick(e, member)}>
+                    <a href="/" className="btn btn-link p-0" onClick={(e) => handleClick(e, member)}>
                         <p className={`p-2 ${member.gender === 'M' ? 'male' : 'female'}`}>{member.name}</p>
 
                         {member.spouse && member.spouse.length > 0 && (
@@ -34,7 +34,7 @@ export default function TreeNode({ members, className = '' }) {
                                 </p>
                             ))
                         )}
-                    </button>
+                    </a>
                     {member.kids && member.kids.length > 0 && (
                         <ul>
                             <TreeNode members={member.kids} />
