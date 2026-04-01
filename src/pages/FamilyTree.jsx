@@ -4,6 +4,8 @@ import FloatingHeader from '../components/FloatingHeader';
 import FamilyData from '../data/familyData.json';
 
 export default function FamilyTree() {
+    const lastModified = FamilyData[0]?.lastModified;
+
     useEffect(() => {
         const parentNode = document.querySelector('.tree-parent-node');
         if (parentNode) {
@@ -19,7 +21,7 @@ export default function FamilyTree() {
 
     return (
         <>  
-            <FloatingHeader />
+            <FloatingHeader date={lastModified} />
             <div className="tree">
                 <ul>
                     <TreeNode members={FamilyData} className="tree-parent-node" />

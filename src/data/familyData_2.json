@@ -4,14 +4,12 @@
         "name": "Ghoti charan Giri",
         "gender": "M",
         "spouse": [],
-        "lastModified": "20-10-2024 15:48",
         "kids": [
             {
                 "id": "54",
                 "name": "Kashinath Giri",
                 "gender": "M",
                 "spouse": [],
-                "lastModified": "20-10-2024 15:48",
                 "kids": [
                     {
                         "id": "55",
@@ -21,11 +19,9 @@
                             {
                                 "id": "56",
                                 "name": "Grirbala Giri",
-                                "gender": "F",
-                                "lastModified": "20-10-2024 15:48"
+                                "gender": "F"
                             }
                         ],
-                        "lastModified": "20-10-2024 15:48",
                         "kids": [
                             {
                                 "id": "57",
@@ -35,11 +31,9 @@
                                     {
                                         "id": "58",
                                         "name": "Purnima Giri",
-                                        "gender": "F",
-                                        "lastModified": "20-10-2024 15:48"
+                                        "gender": "F"
                                     }
                                 ],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": [
                                     {
                                         "id": "60",
@@ -49,11 +43,9 @@
                                             {
                                                 "id": "61",
                                                 "name": "Sonai Giri",
-                                                "gender": "F",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "F"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "79",
@@ -63,18 +55,15 @@
                                                     {
                                                         "id": "80",
                                                         "name": "Puja Giri",
-                                                        "gender": "F",
-                                                        "lastModified": "20-10-2024 15:48"
+                                                        "gender": "F"
                                                     }
                                                 ],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": [
                                                     {
                                                         "id": "81",
                                                         "name": "Samprit Giri",
                                                         "gender": "M",
                                                         "spouse": [],
-                                                        "lastModified": "20-10-2024 15:48",
                                                         "kids": []
                                                     }
                                                 ]
@@ -87,18 +76,15 @@
                                                     {
                                                         "id": "83",
                                                         "name": "Pulin Pradhan",
-                                                        "gender": "M",
-                                                        "lastModified": "20-10-2024 15:48"
+                                                        "gender": "M"
                                                     }
                                                 ],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": [
                                                     {
                                                         "id": "84",
                                                         "name": "Pustika Pradhan",
                                                         "gender": "F",
                                                         "spouse": [],
-                                                        "lastModified": "20-10-2024 15:48",
                                                         "kids": []
                                                     }
                                                 ]
@@ -113,11 +99,9 @@
                                             {
                                                 "id": "63",
                                                 "name": "Arati Giri",
-                                                "gender": "F",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "F"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "72",
@@ -127,18 +111,15 @@
                                                     {
                                                         "id": "73",
                                                         "name": "Ranjit Giri",
-                                                        "gender": "M",
-                                                        "lastModified": "20-10-2024 15:48"
+                                                        "gender": "M"
                                                     }
                                                 ],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": [
                                                     {
                                                         "id": "74",
                                                         "name": "Ramen Giri",
                                                         "gender": "M",
                                                         "spouse": [],
-                                                        "lastModified": "20-10-2024 15:48",
                                                         "kids": []
                                                     }
                                                 ]
@@ -151,18 +132,15 @@
                                                     {
                                                         "id": "76",
                                                         "name": "Nanojit Jana",
-                                                        "gender": "M",
-                                                        "lastModified": "20-10-2024 15:48"
+                                                        "gender": "M"
                                                     }
                                                 ],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": [
                                                     {
                                                         "id": "77",
                                                         "name": "Trishanjit Jana",
                                                         "gender": "M",
                                                         "spouse": [],
-                                                        "lastModified": "20-10-2024 15:48",
                                                         "kids": []
                                                     }
                                                 ]
@@ -172,7 +150,6 @@
                                                 "name": "Sayan Giri",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -185,18 +162,15 @@
                                             {
                                                 "id": "65",
                                                 "name": "Puranjan Guria",
-                                                "gender": "M",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "M"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "70",
                                                 "name": "Saswati Guria",
                                                 "gender": "F",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             },
                                             {
@@ -204,7 +178,6 @@
                                                 "name": "Smritilekha Guria",
                                                 "gender": "F",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -217,18 +190,15 @@
                                             {
                                                 "id": "67",
                                                 "name": "Balai Jana",
-                                                "gender": "M",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "M"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "68",
                                                 "name": "Anirban Jana",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             },
                                             {
@@ -236,7 +206,6 @@
                                                 "name": "Anindita Jana",
                                                 "gender": "F",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -248,7 +217,6 @@
                                 "name": "Santosh Kumar Giri",
                                 "gender": "M",
                                 "spouse": [],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": []
                             }
                         ]
@@ -260,7 +228,6 @@
                 "name": "Biswanath Giri",
                 "gender": "M",
                 "spouse": [],
-                "lastModified": "20-10-2024 15:48",
                 "kids": []
             },
             {
@@ -271,11 +238,9 @@
                     {
                         "id": "98",
                         "name": "Rajeswari Giri",
-                        "gender": "F",
-                        "lastModified": "20-10-2024 15:48"
+                        "gender": "F"
                     }
                 ],
-                "lastModified": "20-10-2024 15:48",
                 "kids": [
                     {
                         "id": "29",
@@ -285,11 +250,9 @@
                             {
                                 "id": "30",
                                 "name": "Giribala Giri",
-                                "gender": "F",
-                                "lastModified": "20-10-2024 15:48"
+                                "gender": "F"
                             }
                         ],
-                        "lastModified": "20-10-2024 15:48",
                         "kids": [
                             {
                                 "id": "34",
@@ -299,11 +262,9 @@
                                     {
                                         "id": "35",
                                         "name": "Janhabi Bala Giri",
-                                        "gender": "F",
-                                        "lastModified": "20-10-2024 15:48"
+                                        "gender": "F"
                                     }
                                 ],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": [
                                     {
                                         "id": "40",
@@ -313,18 +274,15 @@
                                             {
                                                 "id": "41",
                                                 "name": "Sumitra Giri",
-                                                "gender": "F",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "F"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "42",
                                                 "name": "Sumana Giri",
                                                 "gender": "F",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             },
                                             {
@@ -332,7 +290,6 @@
                                                 "name": "Suman Giri",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -345,18 +302,15 @@
                                             {
                                                 "id": "45",
                                                 "name": "Horipada Maity",
-                                                "gender": "M",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "M"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "46",
                                                 "name": "Tarasankor Maity",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -369,18 +323,15 @@
                                             {
                                                 "id": "48",
                                                 "name": "Narayan Pradhan",
-                                                "gender": "M",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "M"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "49",
                                                 "name": "Soumya Pradhan",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -393,18 +344,15 @@
                                             {
                                                 "id": "51",
                                                 "name": "Archana Giri",
-                                                "gender": "F",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "F"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "52",
                                                 "name": "Sampad Giri",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             },
                                             {
@@ -412,7 +360,6 @@
                                                 "name": "Songlap Giri",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -427,11 +374,9 @@
                                     {
                                         "id": "1",
                                         "name": "Kanan Bala Giri",
-                                        "gender": "F",
-                                        "lastModified": "20-10-2024 15:48"
+                                        "gender": "F"
                                     }
                                 ],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": [
                                     {
                                         "id": "2",
@@ -441,11 +386,9 @@
                                             {
                                                 "id": "3",
                                                 "name": "Ranu Giri",
-                                                "gender": "F",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "F"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "4",
@@ -455,11 +398,9 @@
                                                     {
                                                         "id": "5",
                                                         "name": "Sumita Giri",
-                                                        "gender": "F",
-                                                        "lastModified": "20-10-2024 15:48"
+                                                        "gender": "F"
                                                     }
                                                 ],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -474,11 +415,9 @@
                                     {
                                         "id": "13",
                                         "name": "Yotshna Rani Giri",
-                                        "gender": "F",
-                                        "lastModified": "20-10-2024 15:48"
+                                        "gender": "F"
                                     }
                                 ],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": [
                                     {
                                         "id": "22",
@@ -488,18 +427,15 @@
                                             {
                                                 "id": "14",
                                                 "name": "Chittaranjan Giri",
-                                                "gender": "M",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "M"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "15",
                                                 "name": "Rittwika Giri",
                                                 "gender": "F",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             },
                                             {
@@ -507,7 +443,6 @@
                                                 "name": "Rishika Giri",
                                                 "gender": "F",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -520,18 +455,15 @@
                                             {
                                                 "id": "16",
                                                 "name": "Mayna Patra Giri",
-                                                "gender": "F",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "F"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "17",
                                                 "name": "Pritam Giri",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             },
                                             {
@@ -539,7 +471,6 @@
                                                 "name": "Priyam Giri",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -552,18 +483,15 @@
                                             {
                                                 "id": "20",
                                                 "name": "Ranjan Bhuniya",
-                                                "gender": "M",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "M"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "87",
                                                 "name": "Sivam Bhuniya",
                                                 "gender": "M",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -576,18 +504,15 @@
                                             {
                                                 "id": "21",
                                                 "name": "Debashis Das",
-                                                "gender": "M",
-                                                "lastModified": "20-10-2024 15:48"
+                                                "gender": "M"
                                             }
                                         ],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": [
                                             {
                                                 "id": "27",
                                                 "name": "Samriddhi Das",
                                                 "gender": "F",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             },
                                             {
@@ -595,7 +520,6 @@
                                                 "name": "Misti Das",
                                                 "gender": "F",
                                                 "spouse": [],
-                                                "lastModified": "20-10-2024 15:48",
                                                 "kids": []
                                             }
                                         ]
@@ -610,18 +534,15 @@
                                     {
                                         "id": "89",
                                         "name": "Bisnupada Giri",
-                                        "gender": "M",
-                                        "lastModified": "20-10-2024 15:48"
+                                        "gender": "M"
                                     }
                                 ],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": [
                                     {
                                         "id": "102",
                                         "name": "Bidesh Giri",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -629,7 +550,6 @@
                                         "name": "Sadesh Giri",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -637,7 +557,6 @@
                                         "name": "Bithika Giri",
                                         "gender": "F",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -645,7 +564,6 @@
                                         "name": "Dinesh Giri",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     }
                                 ]
@@ -658,18 +576,15 @@
                                     {
                                         "id": "91",
                                         "name": "Sashanka Shysmal",
-                                        "gender": "M",
-                                        "lastModified": "20-10-2024 15:48"
+                                        "gender": "M"
                                     }
                                 ],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": [
                                     {
                                         "id": "106",
                                         "name": "Rita Shysmal",
                                         "gender": "F",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -677,7 +592,6 @@
                                         "name": "Mita Shysmal",
                                         "gender": "F",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -685,7 +599,6 @@
                                         "name": "Tuntuni Shysmal",
                                         "gender": "F",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -693,7 +606,6 @@
                                         "name": "Khokon Shysmal",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -701,7 +613,6 @@
                                         "name": "Ashim Shysmal",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     }
                                 ]
@@ -714,18 +625,15 @@
                                     {
                                         "id": "93",
                                         "name": "Khitish Patra",
-                                        "gender": "M",
-                                        "lastModified": "20-10-2024 15:48"
+                                        "gender": "M"
                                     }
                                 ],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": [
                                     {
                                         "id": "111",
                                         "name": "Bapi Patra",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -733,7 +641,6 @@
                                         "name": "Doli Patra",
                                         "gender": "F",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -741,7 +648,6 @@
                                         "name": "Shuli Patra",
                                         "gender": "F",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -749,7 +655,6 @@
                                         "name": "Bablu Patra",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -757,7 +662,6 @@
                                         "name": "Bulbuli Patra",
                                         "gender": "F",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -765,7 +669,6 @@
                                         "name": "Tapu Patra",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     }
                                 ]
@@ -778,18 +681,15 @@
                                     {
                                         "id": "100",
                                         "name": "Vivek Mal",
-                                        "gender": "M",
-                                        "lastModified": "20-10-2024 15:48"
+                                        "gender": "M"
                                     }
                                 ],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": [
                                     {
                                         "id": "117",
                                         "name": "Archana Mal",
                                         "gender": "F",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -797,7 +697,6 @@
                                         "name": "Piku Mal",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -805,7 +704,6 @@
                                         "name": "Litu Mal",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     },
                                     {
@@ -813,7 +711,6 @@
                                         "name": "Babu Mal",
                                         "gender": "M",
                                         "spouse": [],
-                                        "lastModified": "20-10-2024 15:48",
                                         "kids": []
                                     }
                                 ]
@@ -823,7 +720,6 @@
                                 "name": "Dipti Giri",
                                 "gender": "F",
                                 "spouse": [],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": []
                             },
                             {
@@ -831,7 +727,6 @@
                                 "name": "Prabartak Giri",
                                 "gender": "M",
                                 "spouse": [],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": []
                             },
                             {
@@ -839,7 +734,6 @@
                                 "name": "Prashanta Giri",
                                 "gender": "M",
                                 "spouse": [],
-                                "lastModified": "20-10-2024 15:48",
                                 "kids": []
                             }
                         ]
@@ -849,7 +743,6 @@
                         "name": "Barendranath Giri",
                         "gender": "M",
                         "spouse": [],
-                        "lastModified": "20-10-2024 15:48",
                         "kids": []
                     },
                     {
@@ -857,7 +750,6 @@
                         "name": "Dhirendranath Giri",
                         "gender": "M",
                         "spouse": [],
-                        "lastModified": "20-10-2024 15:48",
                         "kids": []
                     },
                     {
@@ -865,7 +757,6 @@
                         "name": "Logen Giri",
                         "gender": "M",
                         "spouse": [],
-                        "lastModified": "20-10-2024 15:48",
                         "kids": []
                     },
                     {
@@ -873,7 +764,6 @@
                         "name": "Bivuti Giri",
                         "gender": "M",
                         "spouse": [],
-                        "lastModified": "20-10-2024 15:48",
                         "kids": []
                     },
                     {
@@ -881,7 +771,6 @@
                         "name": "Jagadish Giri",
                         "gender": "M",
                         "spouse": [],
-                        "lastModified": "20-10-2024 15:48",
                         "kids": []
                     }
                 ]
